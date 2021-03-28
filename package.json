@@ -1,0 +1,29 @@
+{
+  "name": "alp-yilmaz-x",
+  "version": "1.0.0",
+  "description": "Test Projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "murat": "echo 'Benim adım Murat'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "paket"
+  ],
+  "author": "alpyilmazx",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.2",
+    "nodemailer": "^6.5.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alpyilmazx/alp-yilmaz-x.git"
+  }
+}
